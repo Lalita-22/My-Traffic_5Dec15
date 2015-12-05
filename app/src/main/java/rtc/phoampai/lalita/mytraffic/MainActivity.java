@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private void buttonController() {
 
         aboutMeButton.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View v) {
 
